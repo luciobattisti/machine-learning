@@ -1,0 +1,6 @@
+OrderID,Product,Category,Quantity,Price,TotalSales
+101,Phone,Electronics,3,500.0,
+102,Laptop,Electronics,2,1200.0,
+103,Headphones,Accessories,5,100.0,500.0
+104,TV,Electronics,1,800.0,
+105,Mouse,Accessories,4,50.0,
